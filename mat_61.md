@@ -2,13 +2,15 @@
 title: "Item - Materials - Minerai mythique"
 permalink: /mat_61/
 excerpt: "Era of Chaos  Minerai mythique"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: fr
 ref: "mat_61.md"
 toc: false
 classes: wide
 ---
  [Materials](/ItemsFR/){: .btn .btn--primary}[Artifacts](/ItemsFR/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsFR/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsFR/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsFR/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsFR/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsFR/Gift/){: .btn .btn--success}[Event related](/ItemsFR/Events/){: .btn .btn--warning}[Avatars](/ItemsFR/Avatars/){: .btn .btn--danger}[Consumables](/ItemsFR/Consumables/){: .btn .btn--info}[Unknown](/ItemsFR/Unknown/){: .btn .btn--primary}
+
+ ![Minerai mythique](/images/t/i_cailiao_kuangshi3.png)
 
 ## Détails
  **Description:** Matériaux communs pour la mise à niveau des équipements d'orange à orange +1.
