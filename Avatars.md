@@ -2,16 +2,16 @@
 title: "Item - Avatars"
 permalink: /Avatars/
 excerpt: "Avatars in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Avatars.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsFR/){: .btn .btn--primary}[Artifacts](/ItemsFR/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsFR/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsFR/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsFR/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsFR/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsFR/Gift/){: .btn .btn--success}[Event related](/ItemsFR/Events/){: .btn .btn--warning}[Avatars](/ItemsFR/Avatars/){: .btn .btn--danger}[Consumables](/ItemsFR/Consumables/){: .btn .btn--info}[Unknown](/ItemsFR/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsFR/){: .btn .btn--primary}[Artifacts](/ItemsFR/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsFR/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsFR/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsFR/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsFR/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsFR/Gift/){: .btn .btn--success}[Event related](/ItemsFR/Events/){: .btn .btn--warning}[Avatars](/ItemsFR/Avatars/){: .btn .btn--danger}[Consumables](/ItemsFR/Consumables/){: .btn .btn--info}[Unknown](/ItemsFR/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nom        |   Type  |   Description     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Nom        |   Type  |   Description     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Armure dorée : PhuThieu](/images/u/ti_datianshidiancangkapifu2.jpg) | [Armure dorée : PhuThieu](/ItemsFR/con_972/){: .btn .btn--era5} | Hero Avatar |  |
   | 2 | ![Avatar Née des cendres](/images/h/h_Luna3.jpg) | [Avatar Née des cendres](/ItemsFR/con_576/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir le skin et l'avatar Née des cendres de Luna |
   | 3 | ![Avatar d'Adelaïde](/images/h/h_Adelaide1.jpg) | [Avatar d'Adelaïde](/ItemsFR/con_581/){: .btn .btn--era5} | Hero Avatar | Permet de recevoir l'avatar d'Adelaïde |

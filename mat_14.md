@@ -2,13 +2,13 @@
 title: "Item - Materials - Mercure de bonne qualité"
 permalink: /mat_14/
 excerpt: "Era of Chaos  Mercure de bonne qualité"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "mat_14.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsFR/){: .btn .btn--primary}[Artifacts](/ItemsFR/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsFR/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsFR/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsFR/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsFR/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsFR/Gift/){: .btn .btn--success}[Event related](/ItemsFR/Events/){: .btn .btn--warning}[Avatars](/ItemsFR/Avatars/){: .btn .btn--danger}[Consumables](/ItemsFR/Consumables/){: .btn .btn--info}[Unknown](/ItemsFR/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsFR/){: .btn .btn--primary}[Artifacts](/ItemsFR/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsFR/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsFR/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsFR/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsFR/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsFR/Gift/){: .btn .btn--success}[Event related](/ItemsFR/Events/){: .btn .btn--warning}[Avatars](/ItemsFR/Avatars/){: .btn .btn--danger}[Consumables](/ItemsFR/Consumables/){: .btn .btn--info}[Unknown](/ItemsFR/Unknown/){: .btn .btn--primary}
 
  ![Mercure de bonne qualité](/images/t/i_cailiao_shuiyin1.png)
 

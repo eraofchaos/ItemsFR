@@ -2,16 +2,16 @@
 title: "Item - Gift"
 permalink: /Gift/
 excerpt: "Gift in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Gift.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsFR/){: .btn .btn--primary}[Artifacts](/ItemsFR/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsFR/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsFR/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsFR/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsFR/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsFR/Gift/){: .btn .btn--success}[Event related](/ItemsFR/Events/){: .btn .btn--warning}[Avatars](/ItemsFR/Avatars/){: .btn .btn--danger}[Consumables](/ItemsFR/Consumables/){: .btn .btn--info}[Unknown](/ItemsFR/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsFR/){: .btn .btn--primary}[Artifacts](/ItemsFR/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsFR/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsFR/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsFR/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsFR/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsFR/Gift/){: .btn .btn--success}[Event related](/ItemsFR/Events/){: .btn .btn--warning}[Avatars](/ItemsFR/Avatars/){: .btn .btn--danger}[Consumables](/ItemsFR/Consumables/){: .btn .btn--info}[Unknown](/ItemsFR/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nom        |   Type  |   Description     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Nom        |   Type  |   Description     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![1 000 diamants ténébreux](/images/t/i_10040.png) | [1 000 diamants ténébreux](/ItemsFR/con_1929/){: .btn .btn--era4} | Gift | Octroie 1 000 diamants ténébreux. |
   | 2 | ![1 000 tickets de marché](/images/t/i_907580.png) | [1 000 tickets de marché](/ItemsFR/con_1955/){: .btn .btn--era4} | Gift | Octroie 3 280 diamants et 1 000 tickets de marché. |
   | 3 | ![1 200 brioches du carême à la carotte](/images/t/i_907588.png) | [1 200 brioches du carême à la carotte](/ItemsFR/con_2121/){: .btn .btn--era4} | Gift | 1 200 brioches du carême à la carotte et 600 diamants. |

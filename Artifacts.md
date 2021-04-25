@@ -2,16 +2,16 @@
 title: "Item - Artifacts"
 permalink: /Artifacts/
 excerpt: "Artifacts in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Artifacts.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsFR/){: .btn .btn--primary}[Artifacts](/ItemsFR/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsFR/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsFR/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsFR/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsFR/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsFR/Gift/){: .btn .btn--success}[Event related](/ItemsFR/Events/){: .btn .btn--warning}[Avatars](/ItemsFR/Avatars/){: .btn .btn--danger}[Consumables](/ItemsFR/Consumables/){: .btn .btn--info}[Unknown](/ItemsFR/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsFR/){: .btn .btn--primary}[Artifacts](/ItemsFR/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsFR/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsFR/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsFR/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsFR/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsFR/Gift/){: .btn .btn--success}[Event related](/ItemsFR/Events/){: .btn .btn--warning}[Avatars](/ItemsFR/Avatars/){: .btn .btn--danger}[Consumables](/ItemsFR/Consumables/){: .btn .btn--info}[Unknown](/ItemsFR/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nom        |   Description     |
-  |:---|---|:--------------------|:------------------|
+  | Nr | Icon |         Nom        |   Description     |
+  |:---|------|:--------------------|:------------------|
   | 1 | ![Amulette de mana](/images/t/artifact_40211.png) | [Amulette de mana](/ItemsFR/art_112/){: .btn .btn--era3} | Un charme qui renforce la magie. Composant du Puits de magie. |
   | 2 | ![Amulette du fossoyeur](/images/t/artifact_40321.png) | [Amulette du fossoyeur](/ItemsFR/art_129/){: .btn .btn--era4} | Un charme protecteur utilisé par une Liche. Composant du Manteau du roi des Non-Morts. |
   | 3 |  | [Ankh](/ItemsFR/art_184/){: .btn .btn--era5} | Un objet en forme de croix qui confère l'immortalité. Nul ne sait ce qu'il est advenu de son ancien propriétaire. |

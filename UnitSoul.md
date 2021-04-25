@@ -2,16 +2,16 @@
 title: "Item - Unit Soul"
 permalink: /UnitSoul/
 excerpt: "Unit Soul in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Unit Soul.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsFR/){: .btn .btn--primary}[Artifacts](/ItemsFR/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsFR/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsFR/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsFR/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsFR/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsFR/Gift/){: .btn .btn--success}[Event related](/ItemsFR/Events/){: .btn .btn--warning}[Avatars](/ItemsFR/Avatars/){: .btn .btn--danger}[Consumables](/ItemsFR/Consumables/){: .btn .btn--info}[Unknown](/ItemsFR/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsFR/){: .btn .btn--primary}[Artifacts](/ItemsFR/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsFR/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsFR/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsFR/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsFR/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsFR/Gift/){: .btn .btn--success}[Event related](/ItemsFR/Events/){: .btn .btn--warning}[Avatars](/ItemsFR/Avatars/){: .btn .btn--danger}[Consumables](/ItemsFR/Consumables/){: .btn .btn--info}[Unknown](/ItemsFR/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nom        |   Type  |   Description     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Nom        |   Type  |   Description     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Adjudicatrice](/images/u/ti_shenpanguan.jpg) | [Adjudicatrice](/ItemsFR/unt_198/){: .btn .btn--era6} | Unit Soul | Une fois 80 jetons d'âme accumulés, vous pouvez invoquer une Adjudicatrice, unité de Commandants. |
   | 2 | ![Ange](/images/u/ti_datianshi.jpg) | [Ange](/ItemsFR/unt_196/){: .btn .btn--era5} | Unit Soul | Une fois 80 jetons d'âme accumulés, vous pouvez invoquer un Ange, unité d'aptitude SSR. |
   | 3 | ![Arbalétrière de Regna](/images/u/ti_ruigenanushou.jpg) | [Arbalétrière de Regna](/ItemsFR/unt_274/){: .btn .btn--era5} | Unit Soul | Une fois 80 jetons d'âme accumulés, vous pouvez invoquer une Arbalétrière de Regna. Vous pouvez aussi utiliser les jetons pour améliorer le rang des Arbalétrières de Regna. |

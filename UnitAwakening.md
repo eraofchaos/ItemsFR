@@ -2,16 +2,16 @@
 title: "Item - Unit Awakening"
 permalink: /UnitAwakening/
 excerpt: "Unit Awakening in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Unit Awakening.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsFR/){: .btn .btn--primary}[Artifacts](/ItemsFR/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsFR/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsFR/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsFR/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsFR/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsFR/Gift/){: .btn .btn--success}[Event related](/ItemsFR/Events/){: .btn .btn--warning}[Avatars](/ItemsFR/Avatars/){: .btn .btn--danger}[Consumables](/ItemsFR/Consumables/){: .btn .btn--info}[Unknown](/ItemsFR/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsFR/){: .btn .btn--primary}[Artifacts](/ItemsFR/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsFR/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsFR/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsFR/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsFR/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsFR/Gift/){: .btn .btn--success}[Event related](/ItemsFR/Events/){: .btn .btn--warning}[Avatars](/ItemsFR/Avatars/){: .btn .btn--danger}[Consumables](/ItemsFR/Consumables/){: .btn .btn--info}[Unknown](/ItemsFR/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nom        |   Type  |   Description     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Nom        |   Type  |   Description     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 | ![Pierre d'âme d'Archange](/images/u/tia_datianshi.jpg) | [Pierre d'âme d'Archange](/ItemsFR/unt_288/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil de l'Ange. |
   | 2 | ![Pierre d'âme d'Archidiable](/images/u/tia_daemo.jpg) | [Pierre d'âme d'Archidiable](/ItemsFR/unt_318/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil de l'Archidiable. |
   | 3 | ![Pierre d'âme d'Archidruidesse](/images/u/tia_deluyi.jpg) | [Pierre d'âme d'Archidruidesse](/ItemsFR/unt_296/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil de l'Archidruidesse. |

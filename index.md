@@ -2,16 +2,16 @@
 title: "Item - Materials"
 permalink: /
 excerpt: "Materials in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Materials.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsFR/){: .btn .btn--primary}[Artifacts](/ItemsFR/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsFR/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsFR/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsFR/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsFR/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsFR/Gift/){: .btn .btn--success}[Event related](/ItemsFR/Events/){: .btn .btn--warning}[Avatars](/ItemsFR/Avatars/){: .btn .btn--danger}[Consumables](/ItemsFR/Consumables/){: .btn .btn--info}[Unknown](/ItemsFR/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsFR/){: .btn .btn--primary}[Artifacts](/ItemsFR/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsFR/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsFR/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsFR/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsFR/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsFR/Gift/){: .btn .btn--success}[Event related](/ItemsFR/Events/){: .btn .btn--warning}[Avatars](/ItemsFR/Avatars/){: .btn .btn--danger}[Consumables](/ItemsFR/Consumables/){: .btn .btn--info}[Unknown](/ItemsFR/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nom        |   Description     |
-  |:---|---|:--------------------|:------------------|
+  | Nr | Icon |         Nom        |   Description     |
+  |:---|------|:--------------------|:------------------|
   | 1 | ![Bois d'âme +3](/images/t/i_cailiao_mucai3.png) | [Bois d'âme +3](/ItemsFR/mat_83/){: .btn .btn--era5} | Matériaux communs pour la mise à niveau des équipements d'orange +3 à orange +4. |
   | 2 | ![Bois de bonne qualité](/images/t/i_cailiao_mucai1.png) | [Bois de bonne qualité](/ItemsFR/mat_13/){: .btn .btn--era3} | Matériaux communs pour la mise à niveau des équipements de bleu à bleu +1. |
   | 3 | ![Bois de qualité inférieure](/images/t/i_cailiao_mucai1.png) | [Bois de qualité inférieure](/ItemsFR/mat_1/){: .btn .btn--era1} | Matériaux communs pour la mise à niveau des équipements de blanc à vert. |

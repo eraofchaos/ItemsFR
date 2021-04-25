@@ -1,17 +1,17 @@
 ---
-title: "Item - Hero SKill"
+title: "Item - Hero Skill"
 permalink: /HeroSkill/
-excerpt: "Hero SKill in Era of Chaos"
-last_modified_at: 2021-04-23
+excerpt: "Hero Skill in Era of Chaos"
+last_modified_at: 2021-04-25
 locale: fr
-ref: "Hero SKill.md"
+ref: "Hero Skill.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsFR/){: .btn .btn--primary}[Artifacts](/ItemsFR/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsFR/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsFR/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsFR/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsFR/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsFR/Gift/){: .btn .btn--success}[Event related](/ItemsFR/Events/){: .btn .btn--warning}[Avatars](/ItemsFR/Avatars/){: .btn .btn--danger}[Consumables](/ItemsFR/Consumables/){: .btn .btn--info}[Unknown](/ItemsFR/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsFR/){: .btn .btn--primary}[Artifacts](/ItemsFR/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsFR/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsFR/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsFR/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsFR/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsFR/Gift/){: .btn .btn--success}[Event related](/ItemsFR/Events/){: .btn .btn--warning}[Avatars](/ItemsFR/Avatars/){: .btn .btn--danger}[Consumables](/ItemsFR/Consumables/){: .btn .btn--info}[Unknown](/ItemsFR/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nom        |   Type  |   Description     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Nom        |   Type  |   Description     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 |  | [Abysses des flammes](/ItemsFR/her_478/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Abysses des flammes |
   | 2 | ![Amnésie](/images/t/ps_shiyidafa.png) | [Amnésie](/ItemsFR/her_420/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Amnésie |
   | 3 | ![Animation des morts](/images/t/ps_julingqishu.png) | [Animation des morts](/ItemsFR/her_466/){: .btn .btn--era4} | Skill | Jeton utilisé pour composer le Livre de sort - Animation des morts |

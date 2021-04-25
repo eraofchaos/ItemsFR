@@ -2,16 +2,16 @@
 title: "Item - Event related"
 permalink: /Events/
 excerpt: "Event related in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: fr
 ref: "Event related.md"
 toc: false
 classes: wide
 ---
- [Materials](/ItemsFR/){: .btn .btn--primary}[Artifacts](/ItemsFR/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsFR/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsFR/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsFR/HeroSoul/){: .btn .btn--info}[Hero SKill](/ItemsFR/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsFR/Gift/){: .btn .btn--success}[Event related](/ItemsFR/Events/){: .btn .btn--warning}[Avatars](/ItemsFR/Avatars/){: .btn .btn--danger}[Consumables](/ItemsFR/Consumables/){: .btn .btn--info}[Unknown](/ItemsFR/Unknown/){: .btn .btn--primary}
+ [Materials](/ItemsFR/){: .btn .btn--primary}[Artifacts](/ItemsFR/Artifacts/){: .btn .btn--success}[Unit Soul](/ItemsFR/UnitSoul/){: .btn .btn--warning}[Unit Awakening](/ItemsFR/UnitAwakening/){: .btn .btn--danger}[Hero Soul](/ItemsFR/HeroSoul/){: .btn .btn--info}[Hero Skill](/ItemsFR/HeroSkill/){: .btn .btn--primary}[Gift](/ItemsFR/Gift/){: .btn .btn--success}[Event related](/ItemsFR/Events/){: .btn .btn--warning}[Avatars](/ItemsFR/Avatars/){: .btn .btn--danger}[Consumables](/ItemsFR/Consumables/){: .btn .btn--info}[Unknown](/ItemsFR/Unknown/){: .btn .btn--primary}
 
-  | Nr | I |         Nom        |   Type  |   Description     |
-  |:---|---|:--------------------|:-------:|:------------------|
+  | Nr | Icon |         Nom        |   Type  |   Description     |
+  |:---|------|:--------------------|:-------:|:------------------|
   | 1 |  | [&](/ItemsFR/con_860/){: .btn .btn--era5} | Event related | On raconte que récolter tous les mystérieux symboles des contrées lointaines ouvrirait la voie vers de nombreux trésors ! |
   | 2 | ![Abats de poisson du Hubei](/images/t/i_81523331.png) | [Abats de poisson du Hubei](/ItemsFR/con_1223/){: .btn .btn--era3} | Event related | Des tripes de poissons moelleuses, de la vessie de poisson particulièrement tendre et de délicats foies de poisson sont cuits jusqu'à obtention d'une sauce parfumée. Le mariage de ces différentes textures offre une expérience gustative unique. Cependant, le contenu de cette marmite semble plutôt cru. |
   | 3 | ![Boisson du Nouvel An](/images/t/i_10039.png) | [Boisson du Nouvel An](/ItemsFR/con_553/){: .btn .btn--era4} | Event related | Objet spécial du Nouvel An. Vous pouvez l'échanger contre des objets rares pendant l'événement. |
