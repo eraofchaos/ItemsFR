@@ -2,7 +2,7 @@
 title: "Item - Consumables"
 permalink: /Consumables/
 excerpt: "Consumables in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: fr
 ref: "Consumables.md"
 toc: false
@@ -35,7 +35,7 @@ classes: wide
   | 21 | ![Catherine - Capitaine](/images/h/h_Catherine6.jpg) | [Catherine - Capitaine](/ItemsFR/con_1029/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Capitaine de Catherine |
   | 22 | ![Catherine - Mariage royal](/images/h/h_Catherine7.jpg) | [Catherine - Mariage royal](/ItemsFR/con_1030/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Mariage royal de Catherine |
   | 23 | ![Centaure - Gardien de la forêt](/images/u/ti_banrenmapifu.jpg) | [Centaure - Gardien de la forêt](/ItemsFR/con_1978/){: .btn .btn--era5} | Unit Skin | Octroie le skin Gardien de la forêt du Centaure. |
-  | 24 |  | [Certificat de gloire](/ItemsFR/con_933/){: .btn .btn--era5} | Other | Certificat de gloire. S'obtient via les récompenses et les résultats quotidiens de l'Arène glorieuse. |
+  | 24 | ![Certificat de gloire](/images/t/i_40021.png) | [Certificat de gloire](/ItemsFR/con_933/){: .btn .btn--era5} | Other | Certificat de gloire. S'obtient via les récompenses et les résultats quotidiens de l'Arène glorieuse. |
   | 25 | ![Certificat divin](/images/t/i_40053.png) | [Certificat divin](/ItemsFR/con_958/){: .btn .btn--era5} | Other | Le certificat divin, la récompense de rang de la saison de l'Arène glorieuse. |
   | 26 | ![Champion d'Adelaïde](/images/h/h_Adelaide8.jpg) | [Champion d'Adelaïde](/ItemsFR/con_1026/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Champion d'Adelaïde |
   | 27 | ![Champion de Sephinroth](/images/h/h_Sephinroth2.jpg) | [Champion de Sephinroth](/ItemsFR/con_1077/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Champion de Sephinroth |
@@ -55,7 +55,7 @@ classes: wide
   | 41 | ![Cristal de sang de dragon](/images/t/i_116.png) | [Cristal de sang de dragon](/ItemsFR/con_879/){: .btn .btn--era5} | Other | Utilisez un tas de cristaux de sang de dragon (ressource de niveau 4) pour améliorer les casernes. |
   | 42 |  | [Cristal magique](/ItemsFR/con_895/){: .btn .btn--era4} | VIP related | Utilisez-les pour améliorer vos sorts dans la Guilde des mages. Gagnez en terminant des niveaux. |
   | 43 |  | [Cristal orange](/ItemsFR/con_730/){: .btn .btn--era5} | Material | Mystérieuse pierre runique. Améliore fortement les compétences de vos unités. Utilisez-la pour gagner 1 000 EXP de compétence. |
-  | 44 |  | [Cristal sacré](/ItemsFR/con_927/){: .btn .btn--era5} | Other | Cristal condensé surnaturel. À échanger contre du matériel rare dans la boutique interserveur. S'obtient dans l'Affrontement des Dieux interserveur. |
+  | 44 | ![Cristal sacré](/images/t/i_godStone.png) | [Cristal sacré](/ItemsFR/con_927/){: .btn .btn--era5} | Other | Cristal condensé surnaturel. À échanger contre du matériel rare dans la boutique interserveur. S'obtient dans l'Affrontement des Dieux interserveur. |
   | 45 | ![Cristal spirituel](/images/t/i_40012.png) | [Cristal spirituel](/ItemsFR/con_924/){: .btn .btn--era5} | Other | Cristal spirituel. S'échange contre des Emblèmes sacrés dans la boutique d'échange Saisis ta chance. Obtenez-en en jouant à Saisis ta chance. |
   | 46 |  | [Cristal vert](/ItemsFR/con_711/){: .btn .btn--era2} | Material | Mystérieuse pierre runique. Améliore un peu les compétences de vos unités. Utilisez-la pour gagner 50 EXP de compétence. |
   | 47 |  | [Cristal violet](/ItemsFR/con_720/){: .btn .btn--era4} | Material | Mystérieuse pierre runique. Améliore de façon drastique les compétences de vos unités. Utilisez-la pour gagner 450 EXP de compétence. |
@@ -89,7 +89,7 @@ classes: wide
   | 75 | ![Ferveur](/images/t/i_40049.png) | [Ferveur](/ItemsFR/con_954/){: .btn .btn--era5} | Other | Un objet servant à défier des boss pendant l'événement Attaque de la Crique. |
   | 76 | ![Fiole d'énergie moyenne](/images/t/i_521.png) | [Fiole d'énergie moyenne](/ItemsFR/con_725/){: .btn .btn--era4} | EXP | Fiole contenant de l'essence d'artefact. Elle vous rapporte 20 essences d'artefact. |
   | 77 | ![Flèche](/images/t/i_arrow.png) | [Flèche](/ItemsFR/con_890/){: .btn .btn--era4} | VIP related | Ce type de flèche est généralement utilisé par les Elfes sylvaines. |
-  | 78 |  | [Fonds de la guilde](/ItemsFR/con_930/){: .btn .btn--era4} | Other | S'obtient grâce aux dons. À utiliser pour renchérir sur une ville lors de Guerre des guildes interserveur. |
+  | 78 | ![Fonds de la guilde](/images/t/i_40018.png) | [Fonds de la guilde](/ItemsFR/con_930/){: .btn .btn--era4} | Other | S'obtient grâce aux dons. À utiliser pour renchérir sur une ville lors de Guerre des guildes interserveur. |
   | 79 | ![Fée - Dame Fortune](/images/u/ti_mofaxianlingpifu2.jpg) | [Fée - Dame Fortune](/ItemsFR/con_2001/){: .btn .btn--era5} | Unit Skin | Octroie le skin Dame Fortune de la Fée. |
   | 80 | ![Gelu - Ailes du Triomphe](/images/h/h_Gelu9.jpg) | [Gelu - Ailes du Triomphe](/ItemsFR/con_1040/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Gelu - Ailes du Triomphe |
   | 81 | ![Gelu - Fête du Printemps](/images/h/h_Gelu7.jpg) | [Gelu - Fête du Printemps](/ItemsFR/con_1039/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Gelu - Fête du printemps |
@@ -158,13 +158,13 @@ classes: wide
   | 144 | ![Mullich d'Erathia](/images/h/h_Mullich2.jpg) | [Mullich d'Erathia](/ItemsFR/con_1027/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Mullich d'Erathia |
   | 145 | ![Médaille d'expédition](/images/t/i_40055.png) | [Médaille d'expédition](/ItemsFR/con_960/){: .btn .btn--era5} | Other | Une médaille donnée aux Héros qui ont longtemps combattu en première ligne. À échanger contre des récompenses dans la boutique d'expédition. Toutes les médailles seront converties à la fin de la période d'À cor et à cri actuelle. |
   | 146 | ![Médaille impériale](/images/t/i_108.png) | [Médaille impériale](/ItemsFR/con_904/){: .btn .btn--era9} | VIP related | Obtenez des médailles impériales en combattant dans des campagnes. |
-  | 147 |  | [Noyau d'énergie](/ItemsFR/con_931/){: .btn .btn--era5} | Battle Formation | À utiliser pour activer les nœuds de formation. |
+  | 147 | ![Noyau d'énergie](/images/t/i_40019.png) | [Noyau d'énergie](/ItemsFR/con_931/){: .btn .btn--era5} | Battle Formation | À utiliser pour activer les nœuds de formation. |
   | 148 | ![Née des cendres](/images/a/avatarFrame_76.png) | [Née des cendres](/ItemsFR/con_1022/){: .btn .btn--era5} | Experience Card | Élément obtenu via l'Arène glorieuse |
   | 149 | ![Ogre - Patrouille nocturne de la nature](/images/u/ti_shirenmopifu.jpg) | [Ogre - Patrouille nocturne de la nature](/ItemsFR/con_1987/){: .btn .btn--era5} | Unit Skin | Octroie le skin Patrouille nocturne de la nature de l'Ogre. |
   | 150 | ![Or](/images/t/i_103.png) | [Or](/ItemsFR/con_899/){: .btn .btn--era9} | VIP related | L'or étincelant a de nombreuses utilités. |
   | 151 | ![Pack Acier draconique](/images/t/i_907004.png) | [Pack Acier draconique](/ItemsFR/con_729/){: .btn .btn--era5} | EXP | Petit paquet cadeau avec une belle quantité d'acier draconique. Ouvrez-le pour recevoir 1 000 unités d'acier draconique. |
   | 152 | ![Pack Sombracier](/images/t/i_30281.png) | [Pack Sombracier](/ItemsFR/con_740/){: .btn .btn--era4} | EXP | Pack contenant de l'acier draconique. Ouvrez-le pour recevoir 300 unités d'acier draconique. |
-  | 153 |  | [Pack bonus de gratitude](/ItemsFR/con_2114/){: .btn .btn--era4} | Exclusive Token related | À utiliser pour pouvoir choisir 1 jeton d'arme universel. |
+  | 153 | ![Pack bonus de gratitude](/images/t/i_906044.png) | [Pack bonus de gratitude](/ItemsFR/con_2114/){: .btn .btn--era4} | Exclusive Token related | À utiliser pour pouvoir choisir 1 jeton d'arme universel. |
   | 154 | ![Pack de 118 diamants](/images/t/i_tool_30272.png) | [Pack de 118 diamants](/ItemsFR/con_736/){: .btn .btn--era3} | EXP | Pack de 118 diamants ! |
   | 155 | ![Pack de 198 diamants](/images/t/i_tool_30273.png) | [Pack de 198 diamants](/ItemsFR/con_737/){: .btn .btn--era4} | EXP | Pack de 198 diamants ! |
   | 156 | ![Pack de 428 diamants](/images/t/i_tool_30274.png) | [Pack de 428 diamants](/ItemsFR/con_738/){: .btn .btn--era4} | EXP | Coffre au trésor contenant 428 diamants ! |
@@ -209,7 +209,7 @@ classes: wide
   | 195 | ![Pièce de duel](/images/t/i_117.png) | [Pièce de duel](/ItemsFR/con_907/){: .btn .btn--era5} | VIP related | Obtenez des pièces de duel en jouant en mode Duel des Héros. |
   | 196 | ![Pièce de gloire](/images/t/i_40010.png) | [Pièce de gloire](/ItemsFR/con_922/){: .btn .btn--era4} | Other | Lancées par la lumière glorieuse du Royaume. Obtenez-les en prenant part aux épreuves de combat du royaume. |
   | 197 | ![Pièce de guilde](/images/t/i_98.png) | [Pièce de guilde](/ItemsFR/con_896/){: .btn .btn--era4} | VIP related | Échangez-les contre des objets dans la Boutique de Guilde. |
-  | 198 |  | [Pièce de guilde interserveurs](/ItemsFR/con_929/){: .btn .btn--era4} | Other | S'obtient en participant à Guerre des guildes interserveur. |
+  | 198 | ![Pièce de guilde interserveurs](/images/t/i_40017.png) | [Pièce de guilde interserveurs](/ItemsFR/con_929/){: .btn .btn--era4} | Other | S'obtient en participant à Guerre des guildes interserveur. |
   | 199 | ![Pièce de ligue](/images/t/i_112.png) | [Pièce de ligue](/ItemsFR/con_892/){: .btn .btn--era4} | VIP related | Obtenez des pièces de ligue en jouant en mode Duel de Champions ou via les récompenses saisonnières. |
   | 200 | ![Pièce de ravitaillement militaire](/images/t/i_40009.png) | [Pièce de ravitaillement militaire](/ItemsFR/con_921/){: .btn .btn--era4} | Other | Les pièces de ravitaillement militaire peuvent être dépensées pour produire des composants. |
   | 201 | ![Pièces de connexion](/images/t/i_40016.png) | [Pièces de connexion](/ItemsFR/con_928/){: .btn .btn--era4} | Other | Échangez vos pièces rares contre différents objets dans la boutique de connexion. |
@@ -217,7 +217,7 @@ classes: wide
   | 203 | ![Point de privilège](/images/t/i_310001.png) | [Point de privilège](/ItemsFR/con_820/){: .btn .btn--era4} | Other | À utiliser pour déverrouiller ou procurer des points de privilège. À récupérer dans le coffre d'activité de mission quotidienne. |
   | 204 | ![Point de talent ultime](/images/t/i_40022.png) | [Point de talent ultime](/ItemsFR/con_934/){: .btn .btn--era5} | Other | Points de talent ultime. Permettent d'améliorer les caractéristiques ultimes. S'obtiennent en améliorant le niveau ultime. |
   | 205 | ![Points de mission](/images/t/i_40044.png) | [Points de mission](/ItemsFR/con_949/){: .btn .btn--era4} | Other | Terminez des missions pour gagner des points, qui vous serviront à débloquer des objets spéciaux. |
-  | 206 |  | [Potion d'alchimie](/ItemsFR/con_932/){: .btn .btn--era5} | Other | Potion d'alchimie. S'obtient en transformant des matériaux dans l'Atelier d'alchimie. |
+  | 206 | ![Potion d'alchimie](/images/t/i_40020.png) | [Potion d'alchimie](/ItemsFR/con_932/){: .btn .btn--era5} | Other | Potion d'alchimie. S'obtient en transformant des matériaux dans l'Atelier d'alchimie. |
   | 207 | ![Potion d'énergie moyenne](/images/t/i_505.png) | [Potion d'énergie moyenne](/ItemsFR/con_705/){: .btn .btn--era3} | EXP | Bouteille de potion d'énergie. La boire vous fera gagner 30 points d'énergie. |
   | 208 | ![Potions d'EXP du joueur](/images/t/i_501.png) | [Potions d'EXP du joueur](/ItemsFR/con_676/){: .btn .btn--era2} | EXP | Requis pour améliorer le rang des Oiseaux de feu, unités d'aptitude SR. |
   | 209 | ![Puissance du Dragon patriarche](/images/h/h_Astral4.jpg) | [Puissance du Dragon patriarche](/ItemsFR/con_1068/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Puissance du Dragon patriarche d'Astral. |
@@ -310,11 +310,11 @@ classes: wide
   | 296 | ![Tool_31036](/images/t/i_red_2.png) | [Tool_31036](/ItemsFR/con_857/){: .btn .btn--era5} | Guild member gift |  |
   | 297 | ![Tool_31037](/images/t/i_red_2.png) | [Tool_31037](/ItemsFR/con_858/){: .btn .btn--era5} | Guild member gift |  |
   | 298 |  | [Tool_40013](/ItemsFR/con_925/){: .btn .btn--era4} | Other |  |
-  | 299 |  | [Tool_40024](/ItemsFR/con_936/){: .btn .btn--era5} | Other |  |
-  | 300 |  | [Tool_40025](/ItemsFR/con_937/){: .btn .btn--era5} | Other |  |
-  | 301 |  | [Tool_40026](/ItemsFR/con_938/){: .btn .btn--era5} | Other |  |
-  | 302 |  | [Tool_40027](/ItemsFR/con_939/){: .btn .btn--era5} | Other |  |
-  | 303 |  | [Tool_40028](/ItemsFR/con_940/){: .btn .btn--era5} | Other |  |
+  | 299 | ![Tool_40024](/images/t/i_40024.png) | [Tool_40024](/ItemsFR/con_936/){: .btn .btn--era5} | Other |  |
+  | 300 | ![Tool_40025](/images/t/i_40025.png) | [Tool_40025](/ItemsFR/con_937/){: .btn .btn--era5} | Other |  |
+  | 301 | ![Tool_40026](/images/t/i_40026.png) | [Tool_40026](/ItemsFR/con_938/){: .btn .btn--era5} | Other |  |
+  | 302 | ![Tool_40027](/images/t/i_40027.png) | [Tool_40027](/ItemsFR/con_939/){: .btn .btn--era5} | Other |  |
+  | 303 | ![Tool_40028](/images/t/i_40028.png) | [Tool_40028](/ItemsFR/con_940/){: .btn .btn--era5} | Other |  |
   | 304 |  | [Tool_499035](/ItemsFR/con_1002/){: .btn .btn--era4} | Exclusive piece |  |
   | 305 | ![Tool_6030403](/images/h/h_Gem5.jpg) | [Tool_6030403](/ItemsFR/con_1047/){: .btn .btn--era5} | Special Skin |  |
   | 306 | ![Tool_6070503](/images/h/h_Ciele5.jpg) | [Tool_6070503](/ItemsFR/con_1062/){: .btn .btn--era5} | Special Skin |  |
