@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal de bonne qualité"
 permalink: /mat_17/
 excerpt: "Era of Chaos  Cristal de bonne qualité"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: fr
 ref: "mat_17.md"
 toc: false
