@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemmes de qualité inférieure"
 permalink: /mat_4/
 excerpt: "Era of Chaos  Gemmes de qualité inférieure"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "mat_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois précieux +2"
 permalink: /mat_27/
 excerpt: "Era of Chaos  Bois précieux +2"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: fr
 ref: "mat_27.md"
 toc: false
