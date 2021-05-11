@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercure légendaire +3"
 permalink: /mat_56/
 excerpt: "Era of Chaos  Mercure légendaire +3"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "mat_56.md"
 toc: false

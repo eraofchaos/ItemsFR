@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois de qualité supérieure +1"
 permalink: /mat_20/
 excerpt: "Era of Chaos  Bois de qualité supérieure +1"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "mat_20.md"
 toc: false

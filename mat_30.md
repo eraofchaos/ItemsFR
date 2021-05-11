@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemmes précieuses +2"
 permalink: /mat_30/
 excerpt: "Era of Chaos  Gemmes précieuses +2"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: fr
 ref: "mat_30.md"
 toc: false
