@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois rare +1"
 permalink: /mat_41/
 excerpt: "Era of Chaos  Bois rare +1"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "mat_41.md"
 toc: false

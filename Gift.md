@@ -2,7 +2,7 @@
 title: "Item - Gift"
 permalink: /Gift/
 excerpt: "Gift in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "Gift.md"
 toc: false
@@ -669,7 +669,8 @@ classes: wide
   | 655 | ![Tool_907418](/images/t/i_907416.png) | [Tool_907418](/ItemsFR/con_1796/){: .btn .btn--era4} | Gift |  |
   | 656 | ![Tool_907419](/images/t/i_907417.png) | [Tool_907419](/ItemsFR/con_1797/){: .btn .btn--era4} | Gift |  |
   | 657 | ![Tool_907545](/images/t/i_907219.png) | [Tool_907545](/ItemsFR/con_1922/){: .btn .btn--era4} | Gift |  |
-  | 658 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/ItemsFR/con_2099/){: .btn .btn--era4} | Gift |  |
-  | 659 | ![Trésor du Dragon patriarche](/images/t/BloodoftheDragon_1.png) | [Trésor du Dragon patriarche](/ItemsFR/con_2006/){: .btn .btn--era5} | Gift | Ce ne sont là que quelques exemples des trésors que le Roi Dragon a récupérés il y a des milliers d'années. Ce sont des trésors inestimables. |
-  | 660 | ![Âme d'unité aléatoire](/images/t/i_10019.png) | [Âme d'unité aléatoire](/ItemsFR/con_1697/){: .btn .btn--era5} | Gift | Obtenez au hasard 1 âme d'unité R (20 %), 1 âme d'unité SR (50 %) ou 1 âme d'unité SSR (30 %). |
-  | 661 | ![Élémentaire de feu à 3 étoiles](/images/t/i_907180.png) | [Élémentaire de feu à 3 étoiles](/ItemsFR/con_2142/){: .btn .btn--era4} | Gift | Élémentaire de feu |
+  | 658 |  | [Tool_907612](/fr/Items/con_2151/){: .btn .btn--era5} | Gift |  |
+  | 659 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/ItemsFR/con_2099/){: .btn .btn--era4} | Gift |  |
+  | 660 | ![Trésor du Dragon patriarche](/images/t/BloodoftheDragon_1.png) | [Trésor du Dragon patriarche](/ItemsFR/con_2006/){: .btn .btn--era5} | Gift | Ce ne sont là que quelques exemples des trésors que le Roi Dragon a récupérés il y a des milliers d'années. Ce sont des trésors inestimables. |
+  | 661 | ![Âme d'unité aléatoire](/images/t/i_10019.png) | [Âme d'unité aléatoire](/ItemsFR/con_1697/){: .btn .btn--era5} | Gift | Obtenez au hasard 1 âme d'unité R (20 %), 1 âme d'unité SR (50 %) ou 1 âme d'unité SSR (30 %). |
+  | 662 | ![Élémentaire de feu à 3 étoiles](/images/t/i_907180.png) | [Élémentaire de feu à 3 étoiles](/ItemsFR/con_2142/){: .btn .btn--era4} | Gift | Élémentaire de feu |

@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemmes fantastiques +2"
 permalink: /mat_51/
 excerpt: "Era of Chaos  Gemmes fantastiques +2"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: fr
 ref: "mat_51.md"
 toc: false
