@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai éternel +1"
 permalink: /mat_68/
 excerpt: "Era of Chaos  Minerai éternel +1"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: fr
 ref: "mat_68.md"
 toc: false
