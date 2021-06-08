@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercure fantastique +2"
 permalink: /mat_49/
 excerpt: "Era of Chaos  Mercure fantastique +2"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "mat_49.md"
 toc: false

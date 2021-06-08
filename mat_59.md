@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristal légendaire +3"
 permalink: /mat_59/
 excerpt: "Era of Chaos  Cristal légendaire +3"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "mat_59.md"
 toc: false

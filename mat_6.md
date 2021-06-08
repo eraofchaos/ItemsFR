@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai ordinaire"
 permalink: /mat_6/
 excerpt: "Era of Chaos  Minerai ordinaire"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "mat_6.md"
 toc: false

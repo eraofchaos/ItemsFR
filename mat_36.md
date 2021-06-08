@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre exceptionnel"
 permalink: /mat_36/
 excerpt: "Era of Chaos  Soufre exceptionnel"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: fr
 ref: "mat_36.md"
 toc: false
