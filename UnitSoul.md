@@ -2,7 +2,7 @@
 title: "Item - Unit Soul"
 permalink: /UnitSoul/
 excerpt: "Unit Soul in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Unit Soul.md"
 toc: false
@@ -78,18 +78,18 @@ classes: wide
   | 64 | ![Orque](/images/u/ti_shourentoufushou.jpg) | [Orque](/ItemsFR/unt_219/){: .btn .btn--era4} | Unit Soul | Une fois 30 jetons d'âme accumulés, vous pouvez invoquer un Orque, unité d'aptitude SR. |
   | 65 | ![Paladin](/images/u/ti_shengqishi.jpg) | [Paladin](/ItemsFR/unt_197/){: .btn .btn--era5} | Unit Soul | Une fois 80 jetons d'âme accumulés, vous pouvez invoquer un Paladin, unité d'aptitude SSR. |
   | 66 | ![Pirates de Regna](/images/u/ti_haidao.jpg) | [Pirates de Regna](/ItemsFR/unt_273/){: .btn .btn--era4} | Unit Soul | Une fois 30 jetons d'âme accumulés, vous pouvez invoquer les Pirates de Regna. Vous pouvez aussi utiliser les jetons pour améliorer le rang des Pirates de Regna. |
-  | 67 | ![Pégase](/images/u/ti_feima.jpg) | [Pégase](/ItemsFR/unt_202/){: .btn .btn--era4} | Unit Soul | Une fois 30 jetons d'âme accumulés, vous pouvez invoquer un Pégase, unité d'aptitude SR. |
-  | 68 | ![Revenante](/images/u/ti_youling.jpg) | [Revenante](/ItemsFR/unt_210/){: .btn .btn--era4} | Unit Soul | Une fois 30 jetons d'âme accumulés, vous pouvez invoquer une Revenante, unité d'aptitude SR. |
-  | 69 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/ItemsFR/unt_280/){: .btn .btn--era4} | Unit Soul | Une fois 80 jetons d'âme accumulés, vous pouvez invoquer un Revyaratan. Vous pouvez aussi utiliser les jetons pour améliorer le rang des Revyaratans. |
-  | 70 | ![Rock](/images/u/ti_leiniao.jpg) | [Rock](/ItemsFR/unt_221/){: .btn .btn--era4} | Unit Soul | Une fois 30 jetons d'âme accumulés, vous pouvez invoquer un Rock, unité d'aptitude SR. |
-  | 71 | ![Serpent de Regna](/images/u/ti_yurenyongshi.jpg) | [Serpent de Regna](/ItemsFR/unt_276/){: .btn .btn--era4} | Unit Soul | Une fois 80 jetons d'âme accumulés, vous pouvez invoquer un Serpent de Regna. Vous pouvez aussi utiliser les jetons pour améliorer le rang des Serpents de Regna. |
-  | 72 | ![Servante des Abîmes](/images/u/ti_diyulingzhu.jpg) | [Servante des Abîmes](/ItemsFR/unt_230/){: .btn .btn--era4} | Unit Soul | Une fois 30 jetons d'âme accumulés, vous pouvez invoquer une Servante des Abîmes, unité d'aptitude SR. |
-  | 73 | ![Sirène](/images/u/ti_meirenyu.jpg) | [Sirène](/ItemsFR/unt_277/){: .btn .btn--era4} | Unit Soul | Une fois 80 jetons d'âme accumulés, vous pouvez invoquer une Sirène. Vous pouvez aussi utiliser les jetons pour améliorer le rang des Sirènes. |
-  | 74 | ![Sorcière maléfique](/images/u/ti_xiemonv.jpg) | [Sorcière maléfique](/ItemsFR/unt_252/){: .btn .btn--era6} | Unit Soul | Une fois 80 jetons d'âme accumulés, vous pouvez invoquer une Sorcière maléfique. Vous pouvez aussi utiliser les jetons pour améliorer le rang des Sorcières maléfiques. |
-  | 75 | ![Spadassin](/images/u/ti_shizijun.jpg) | [Spadassin](/ItemsFR/unt_193/){: .btn .btn--era4} | Unit Soul | Une fois 30 jetons d'âme accumulés, vous pouvez invoquer un Spadassin, unité d'aptitude SR. |
-  | 76 | ![Squelette](/images/u/ti_kulouzhanshi.jpg) | [Squelette](/ItemsFR/unt_208/){: .btn .btn--era3} | Unit Soul | Une fois 10 jetons d'âme accumulés, vous pouvez invoquer un Squelette, unité d'aptitude R. |
-  | 77 | ![Tool_3209](/images/u/ti_tanglang.jpg) | [Tool_3209](/ItemsFR/unt_207/){: .btn .btn--era6} | Unit Soul |  |
-  | 78 | ![Tool_3509](/images/u/ti_yanmo.jpg) | [Tool_3509](/ItemsFR/unt_234/){: .btn .btn--era6} | Unit Soul |  |
+  | 67 | ![Progéniture venimeuse](/images/u/ti_yanmo.jpg) | [Progéniture venimeuse](/ItemsFR/unt_234/){: .btn .btn--era6} | Unit Soul | Une fois 80 jetons d'âme accumulés, vous pouvez invoquer un Progéniture venimeuse, unité de Commandants. |
+  | 68 | ![Pégase](/images/u/ti_feima.jpg) | [Pégase](/ItemsFR/unt_202/){: .btn .btn--era4} | Unit Soul | Une fois 30 jetons d'âme accumulés, vous pouvez invoquer un Pégase, unité d'aptitude SR. |
+  | 69 | ![Revenante](/images/u/ti_youling.jpg) | [Revenante](/ItemsFR/unt_210/){: .btn .btn--era4} | Unit Soul | Une fois 30 jetons d'âme accumulés, vous pouvez invoquer une Revenante, unité d'aptitude SR. |
+  | 70 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/ItemsFR/unt_280/){: .btn .btn--era4} | Unit Soul | Une fois 80 jetons d'âme accumulés, vous pouvez invoquer un Revyaratan. Vous pouvez aussi utiliser les jetons pour améliorer le rang des Revyaratans. |
+  | 71 | ![Rock](/images/u/ti_leiniao.jpg) | [Rock](/ItemsFR/unt_221/){: .btn .btn--era4} | Unit Soul | Une fois 30 jetons d'âme accumulés, vous pouvez invoquer un Rock, unité d'aptitude SR. |
+  | 72 | ![Serpent de Regna](/images/u/ti_yurenyongshi.jpg) | [Serpent de Regna](/ItemsFR/unt_276/){: .btn .btn--era4} | Unit Soul | Une fois 80 jetons d'âme accumulés, vous pouvez invoquer un Serpent de Regna. Vous pouvez aussi utiliser les jetons pour améliorer le rang des Serpents de Regna. |
+  | 73 | ![Servante des Abîmes](/images/u/ti_diyulingzhu.jpg) | [Servante des Abîmes](/ItemsFR/unt_230/){: .btn .btn--era4} | Unit Soul | Une fois 30 jetons d'âme accumulés, vous pouvez invoquer une Servante des Abîmes, unité d'aptitude SR. |
+  | 74 | ![Sirène](/images/u/ti_meirenyu.jpg) | [Sirène](/ItemsFR/unt_277/){: .btn .btn--era4} | Unit Soul | Une fois 80 jetons d'âme accumulés, vous pouvez invoquer une Sirène. Vous pouvez aussi utiliser les jetons pour améliorer le rang des Sirènes. |
+  | 75 | ![Sorcière maléfique](/images/u/ti_xiemonv.jpg) | [Sorcière maléfique](/ItemsFR/unt_252/){: .btn .btn--era6} | Unit Soul | Une fois 80 jetons d'âme accumulés, vous pouvez invoquer une Sorcière maléfique. Vous pouvez aussi utiliser les jetons pour améliorer le rang des Sorcières maléfiques. |
+  | 76 | ![Spadassin](/images/u/ti_shizijun.jpg) | [Spadassin](/ItemsFR/unt_193/){: .btn .btn--era4} | Unit Soul | Une fois 30 jetons d'âme accumulés, vous pouvez invoquer un Spadassin, unité d'aptitude SR. |
+  | 77 | ![Squelette](/images/u/ti_kulouzhanshi.jpg) | [Squelette](/ItemsFR/unt_208/){: .btn .btn--era3} | Unit Soul | Une fois 10 jetons d'âme accumulés, vous pouvez invoquer un Squelette, unité d'aptitude R. |
+  | 78 | ![Tool_3209](/images/u/ti_tanglang.jpg) | [Tool_3209](/ItemsFR/unt_207/){: .btn .btn--era6} | Unit Soul |  |
   | 79 | ![Tool_3809](/images/u/ti_baihu.jpg) | [Tool_3809](/ItemsFR/unt_261/){: .btn .btn--era6} | Unit Soul |  |
   | 80 | ![Tortue dragon](/images/u/ti_longgui.jpg) | [Tortue dragon](/ItemsFR/unt_278/){: .btn .btn--era5} | Unit Soul | Une fois 80 jetons d'âme accumulés, vous pouvez invoquer une Tortue dragon. Vous pouvez aussi utiliser les jetons pour améliorer le rang des Tortues dragons. |
   | 81 | ![Troglodyte](/images/u/ti_dongxueren.jpg) | [Troglodyte](/ItemsFR/unt_244/){: .btn .btn--era3} | Unit Soul | Une fois 10 jetons d'âme accumulés, vous pouvez invoquer un Troglodyte. Vous pouvez aussi utiliser les jetons pour améliorer le rang des Troglodytes. |

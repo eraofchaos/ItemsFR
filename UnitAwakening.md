@@ -2,7 +2,7 @@
 title: "Item - Unit Awakening"
 permalink: /UnitAwakening/
 excerpt: "Unit Awakening in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: fr
 ref: "Unit Awakening.md"
 toc: false
@@ -83,7 +83,7 @@ classes: wide
   | 69 | ![Tool_94804](/images/u/tia_xiyi.jpg) | [Tool_94804](/ItemsFR/unt_338/){: .btn .btn--era5} | Awakening Soul |  |
   | 70 | ![Tool_949901](/images/u/tia_haidao.jpg) | [Tool_949901](/ItemsFR/unt_350/){: .btn .btn--era5} | Awakening Soul |  |
   | 71 | ![Tool_949902](/images/u/tia_baozang.jpg) | [Tool_949902](/ItemsFR/unt_351/){: .btn .btn--era5} | Awakening Soul |  |
-  | 72 | ![Tool_949904](/images/u/tia_yurenyongshi.jpg) | [Tool_949904](/ItemsFR/unt_352/){: .btn .btn--era5} | Awakening Soul |  |
-  | 73 | ![Tool_949905](/images/u/tia_meirenyu.jpg) | [Tool_949905](/ItemsFR/unt_353/){: .btn .btn--era5} | Awakening Soul |  |
-  | 74 | ![Tool_949906](/images/u/tia_longgui.jpg) | [Tool_949906](/ItemsFR/unt_354/){: .btn .btn--era5} | Awakening Soul |  |
-  | 75 | ![Tool_949909](/images/u/tia_xunshashi.jpg) | [Tool_949909](/ItemsFR/unt_356/){: .btn .btn--era5} | Awakening Soul |  |
+  | 72 | ![Tool_949905](/images/u/tia_meirenyu.jpg) | [Tool_949905](/ItemsFR/unt_353/){: .btn .btn--era5} | Awakening Soul |  |
+  | 73 | ![Tool_949906](/images/u/tia_longgui.jpg) | [Tool_949906](/ItemsFR/unt_354/){: .btn .btn--era5} | Awakening Soul |  |
+  | 74 | ![Tool_949909](/images/u/tia_xunshashi.jpg) | [Tool_949909](/ItemsFR/unt_356/){: .btn .btn--era5} | Awakening Soul |  |
+  | 75 | ![pierre d'âme de Gardien des marées](/images/u/tia_yurenyongshi.jpg) | [pierre d'âme de Gardien des marées](/ItemsFR/unt_352/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil du Gardien des marées. |
