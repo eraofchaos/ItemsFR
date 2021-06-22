@@ -2,7 +2,7 @@
 title: "Item - Unit Awakening"
 permalink: /UnitAwakening/
 excerpt: "Unit Awakening in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Unit Awakening.md"
 toc: false
@@ -72,17 +72,17 @@ classes: wide
   | 58 | ![Pierre d'âme de Soldat sylvanien](/images/u/tia_shuyao.jpg) | [Pierre d'âme de Soldat sylvanien](/ItemsFR/unt_293/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil du Soldat sylvanien. |
   | 59 | ![Pierre d'âme de Spectre](/images/u/tia_youling.jpg) | [Pierre d'âme de Spectre](/ItemsFR/unt_299/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil du Spectre. |
   | 60 | ![Pierre d'âme de Sultan Effrit](/images/u/tia_liehuojingling.jpg) | [Pierre d'âme de Sultan Effrit](/ItemsFR/unt_317/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil du Sultan Effrit. |
-  | 61 | ![Pierre d'âme de Titan](/images/u/tia_taitan.jpg) | [Pierre d'âme de Titan](/ItemsFR/unt_326/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil du Titan. |
-  | 62 | ![Pierre d'âme de Troglodyte des ténèbres](/images/u/tia_dongxueren.jpg) | [Pierre d'âme de Troglodyte des ténèbres](/ItemsFR/unt_328/){: .btn .btn--era5} | Awakening Soul | Une pierre d'âme requise pour améliorer le niveau d'éveil du Troglodyte des ténèbres. |
-  | 63 | ![Pierre d'âme de Zombie](/images/u/tia_jiangshi.jpg) | [Pierre d'âme de Zombie](/ItemsFR/unt_298/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil du Zombie. |
-  | 64 | ![Pierre d'âme de Zélote](/images/u/tia_senglv.jpg) | [Pierre d'âme de Zélote](/ItemsFR/unt_286/){: .btn .btn--era5} | Awakening Soul | Une pierre d'âme requise pour améliorer le niveau d'éveil du Zélote. |
-  | 65 | ![Tool_94601](/images/u/tia_dayaojing.jpg) | [Tool_94601](/ItemsFR/unt_320/){: .btn .btn--era5} | Awakening Soul |  |
-  | 66 | ![Tool_94602](/images/u/tia_shixianggui.jpg) | [Tool_94602](/ItemsFR/unt_321/){: .btn .btn--era5} | Awakening Soul |  |
-  | 67 | ![Tool_94608](/images/u/tia_reqiqiu.jpg) | [Tool_94608](/ItemsFR/unt_327/){: .btn .btn--era5} | Awakening Soul |  |
-  | 68 | ![Tool_94708](/images/u/tia_honglong.jpg) | [Tool_94708](/ItemsFR/unt_335/){: .btn .btn--era5} | Awakening Soul |  |
-  | 69 | ![Tool_94804](/images/u/tia_xiyi.jpg) | [Tool_94804](/ItemsFR/unt_338/){: .btn .btn--era5} | Awakening Soul |  |
-  | 70 | ![Tool_949901](/images/u/tia_haidao.jpg) | [Tool_949901](/ItemsFR/unt_350/){: .btn .btn--era5} | Awakening Soul |  |
-  | 71 | ![Tool_949902](/images/u/tia_baozang.jpg) | [Tool_949902](/ItemsFR/unt_351/){: .btn .btn--era5} | Awakening Soul |  |
+  | 61 | ![Pierre d'âme de Tireur d'élite de Regna](/images/u/tia_baozang.jpg) | [Pierre d'âme de Tireur d'élite de Regna](/ItemsFR/unt_351/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil du Tireur d'élite de Regna. |
+  | 62 | ![Pierre d'âme de Titan](/images/u/tia_taitan.jpg) | [Pierre d'âme de Titan](/ItemsFR/unt_326/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil du Titan. |
+  | 63 | ![Pierre d'âme de Troglodyte des ténèbres](/images/u/tia_dongxueren.jpg) | [Pierre d'âme de Troglodyte des ténèbres](/ItemsFR/unt_328/){: .btn .btn--era5} | Awakening Soul | Une pierre d'âme requise pour améliorer le niveau d'éveil du Troglodyte des ténèbres. |
+  | 64 | ![Pierre d'âme de Zombie](/images/u/tia_jiangshi.jpg) | [Pierre d'âme de Zombie](/ItemsFR/unt_298/){: .btn .btn--era5} | Awakening Soul | Pierre d'âme requise pour améliorer le niveau d'éveil du Zombie. |
+  | 65 | ![Pierre d'âme de Zélote](/images/u/tia_senglv.jpg) | [Pierre d'âme de Zélote](/ItemsFR/unt_286/){: .btn .btn--era5} | Awakening Soul | Une pierre d'âme requise pour améliorer le niveau d'éveil du Zélote. |
+  | 66 | ![Tool_94601](/images/u/tia_dayaojing.jpg) | [Tool_94601](/ItemsFR/unt_320/){: .btn .btn--era5} | Awakening Soul |  |
+  | 67 | ![Tool_94602](/images/u/tia_shixianggui.jpg) | [Tool_94602](/ItemsFR/unt_321/){: .btn .btn--era5} | Awakening Soul |  |
+  | 68 | ![Tool_94608](/images/u/tia_reqiqiu.jpg) | [Tool_94608](/ItemsFR/unt_327/){: .btn .btn--era5} | Awakening Soul |  |
+  | 69 | ![Tool_94708](/images/u/tia_honglong.jpg) | [Tool_94708](/ItemsFR/unt_335/){: .btn .btn--era5} | Awakening Soul |  |
+  | 70 | ![Tool_94804](/images/u/tia_xiyi.jpg) | [Tool_94804](/ItemsFR/unt_338/){: .btn .btn--era5} | Awakening Soul |  |
+  | 71 | ![Tool_949901](/images/u/tia_haidao.jpg) | [Tool_949901](/ItemsFR/unt_350/){: .btn .btn--era5} | Awakening Soul |  |
   | 72 | ![Tool_949905](/images/u/tia_meirenyu.jpg) | [Tool_949905](/ItemsFR/unt_353/){: .btn .btn--era5} | Awakening Soul |  |
   | 73 | ![Tool_949906](/images/u/tia_longgui.jpg) | [Tool_949906](/ItemsFR/unt_354/){: .btn .btn--era5} | Awakening Soul |  |
   | 74 | ![Tool_949909](/images/u/tia_xunshashi.jpg) | [Tool_949909](/ItemsFR/unt_356/){: .btn .btn--era5} | Awakening Soul |  |

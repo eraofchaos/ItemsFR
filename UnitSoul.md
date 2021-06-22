@@ -2,7 +2,7 @@
 title: "Item - Unit Soul"
 permalink: /UnitSoul/
 excerpt: "Unit Soul in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "Unit Soul.md"
 toc: false
@@ -78,7 +78,7 @@ classes: wide
   | 64 | ![Orque](/images/u/ti_shourentoufushou.jpg) | [Orque](/ItemsFR/unt_219/){: .btn .btn--era4} | Unit Soul | Une fois 30 jetons d'âme accumulés, vous pouvez invoquer un Orque, unité d'aptitude SR. |
   | 65 | ![Paladin](/images/u/ti_shengqishi.jpg) | [Paladin](/ItemsFR/unt_197/){: .btn .btn--era5} | Unit Soul | Une fois 80 jetons d'âme accumulés, vous pouvez invoquer un Paladin, unité d'aptitude SSR. |
   | 66 | ![Pirates de Regna](/images/u/ti_haidao.jpg) | [Pirates de Regna](/ItemsFR/unt_273/){: .btn .btn--era4} | Unit Soul | Une fois 30 jetons d'âme accumulés, vous pouvez invoquer les Pirates de Regna. Vous pouvez aussi utiliser les jetons pour améliorer le rang des Pirates de Regna. |
-  | 67 | ![Progéniture venimeuse](/images/u/ti_yanmo.jpg) | [Progéniture venimeuse](/ItemsFR/unt_234/){: .btn .btn--era6} | Unit Soul | Une fois 80 jetons d'âme accumulés, vous pouvez invoquer un Progéniture venimeuse, unité de Commandants. |
+  | 67 | ![Progéniture venimeuse](/images/u/ti_yanmo.jpg) | [Progéniture venimeuse](/ItemsFR/unt_234/){: .btn .btn--era6} | Unit Soul | Une fois 80 jetons d'âme accumulés, vous pouvez invoquer une Progéniture venimeuse. Vous pouvez aussi utiliser les jetons pour améliorer le rang des Progénitures venimeuses. |
   | 68 | ![Pégase](/images/u/ti_feima.jpg) | [Pégase](/ItemsFR/unt_202/){: .btn .btn--era4} | Unit Soul | Une fois 30 jetons d'âme accumulés, vous pouvez invoquer un Pégase, unité d'aptitude SR. |
   | 69 | ![Revenante](/images/u/ti_youling.jpg) | [Revenante](/ItemsFR/unt_210/){: .btn .btn--era4} | Unit Soul | Une fois 30 jetons d'âme accumulés, vous pouvez invoquer une Revenante, unité d'aptitude SR. |
   | 70 | ![Revyaratan](/images/u/ti_haiguai.jpg) | [Revyaratan](/ItemsFR/unt_280/){: .btn .btn--era4} | Unit Soul | Une fois 80 jetons d'âme accumulés, vous pouvez invoquer un Revyaratan. Vous pouvez aussi utiliser les jetons pour améliorer le rang des Revyaratans. |

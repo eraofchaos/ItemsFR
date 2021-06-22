@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai flamboyant +5"
 permalink: /mat_96/
 excerpt: "Era of Chaos  Minerai flamboyant +5"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "mat_96.md"
 toc: false

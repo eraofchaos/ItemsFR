@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre flamboyant +5"
 permalink: /mat_99/
 excerpt: "Era of Chaos  Soufre flamboyant +5"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: fr
 ref: "mat_99.md"
 toc: false
