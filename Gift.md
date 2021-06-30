@@ -2,7 +2,7 @@
 title: "Item - Gift"
 permalink: /Gift/
 excerpt: "Gift in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "Gift.md"
 toc: false
@@ -83,7 +83,7 @@ classes: wide
   | 69 | ![Carte de croissance](/images/t/i_907318.png) | [Carte de croissance](/ItemsFR/con_1911/){: .btn .btn--era5} | Gift | Octroie les éléments suivants chaque jour pendant les 7 jours suivant l'achat : 300 unités d'acier draconique, 300 unités de sombracier, 300 unités d'argentile et 60 diamants. |
   | 70 | ![Carte de pierre runique](/images/t/i_907315.png) | [Carte de pierre runique](/ItemsFR/con_1865/){: .btn .btn--era5} | Gift |  |
   | 71 | ![Carte de recrutement](/images/t/i_907319.png) | [Carte de recrutement](/ItemsFR/con_1908/){: .btn .btn--era5} | Gift | Octroie les éléments suivants chaque jour pendant les 7 jours suivant l'achat : 1 clé d'or, 1 clé d'argent et 40 diamants. |
-  | 72 | ![Carte de sort](/images/t/i_907532.png) | [Carte de sort](/ItemsFR/con_1909/){: .btn .btn--era5} | Gift | Octroie les éléments suivants chaque jour pendant les 7 jours suivant l'achat : 3 coffres de jetons de sort orange à sélectionner et 45 diamants. |
+  | 72 | ![Carte de sort](/images/t/i_907532.png) | [Carte de sort](/fr/Items/con_2197/){: .btn .btn--era5} | Gift | Octroie les éléments suivants chaque jour pendant les 7 jours suivant l'achat : 3 coffres de jetons de sort orange à sélectionner et 45 diamants. |
   | 73 | ![Ciele - Vega](/images/t/i_907430.png) | [Ciele - Vega](/ItemsFR/con_1809/){: .btn .btn--era4} | Gift | Octroie 1 980 diamants et 1 skin Vega de Ciele. |
   | 74 | ![Coffre (Autel de l'âme des ténèbres)](/images/t/i_907034.png) | [Coffre (Autel de l'âme des ténèbres)](/ItemsFR/con_1472/){: .btn .btn--era5} | Gift | Un coffre enveloppé de ténèbres et d'énergie macabre. Seuls les seigneurs ayant des Dragons squelettes peuvent l'ouvrir. |
   | 75 | ![Coffre (Bastion)](/images/t/i_904004.png) | [Coffre (Bastion)](/ItemsFR/con_1272/){: .btn .btn--era4} | Gift | Recevez un jeton d'unité aléatoire du Bastion. |
@@ -685,7 +685,15 @@ classes: wide
   | 671 | ![Tool_907418](/images/t/i_907416.png) | [Tool_907418](/ItemsFR/con_1796/){: .btn .btn--era4} | Gift |  |
   | 672 | ![Tool_907419](/images/t/i_907417.png) | [Tool_907419](/ItemsFR/con_1797/){: .btn .btn--era4} | Gift |  |
   | 673 | ![Tool_907545](/images/t/i_907219.png) | [Tool_907545](/ItemsFR/con_1922/){: .btn .btn--era4} | Gift |  |
-  | 674 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/ItemsFR/con_2099/){: .btn .btn--era4} | Gift |  |
-  | 675 | ![Trésor du Dragon patriarche](/images/t/BloodoftheDragon_1.png) | [Trésor du Dragon patriarche](/ItemsFR/con_2006/){: .btn .btn--era5} | Gift | Ce ne sont là que quelques exemples des trésors que le Roi Dragon a récupérés il y a des milliers d'années. Ce sont des trésors inestimables. |
-  | 676 | ![Âme d'unité aléatoire](/images/t/i_10019.png) | [Âme d'unité aléatoire](/ItemsFR/con_1697/){: .btn .btn--era5} | Gift | Obtenez au hasard 1 âme d'unité R (20 %), 1 âme d'unité SR (50 %) ou 1 âme d'unité SSR (30 %). |
-  | 677 | ![Élémentaire de feu à 3 étoiles](/images/t/i_907180.png) | [Élémentaire de feu à 3 étoiles](/ItemsFR/con_2142/){: .btn .btn--era4} | Gift | Élémentaire de feu |
+  | 674 |  | [Tool_907635](/fr/Items/con_2190/){: .btn .btn--era5} | Gift |  |
+  | 675 |  | [Tool_907636](/fr/Items/con_2191/){: .btn .btn--era5} | Gift |  |
+  | 676 |  | [Tool_907637](/fr/Items/con_2192/){: .btn .btn--era5} | Gift |  |
+  | 677 |  | [Tool_907638](/fr/Items/con_2193/){: .btn .btn--era5} | Gift |  |
+  | 678 | ![Tool_907639](/images/t/i_907316.png) | [Tool_907639](/fr/Items/con_2194/){: .btn .btn--era5} | Gift |  |
+  | 679 |  | [Tool_907640](/fr/Items/con_2195/){: .btn .btn--era5} | Gift |  |
+  | 680 |  | [Tool_907641](/fr/Items/con_2196/){: .btn .btn--era5} | Gift |  |
+  | 681 | ![Tool_907643](/images/t/i_7012.png) | [Tool_907643](/fr/Items/con_2198/){: .btn .btn--era5} | Gift |  |
+  | 682 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/ItemsFR/con_2099/){: .btn .btn--era4} | Gift |  |
+  | 683 | ![Trésor du Dragon patriarche](/images/t/BloodoftheDragon_1.png) | [Trésor du Dragon patriarche](/ItemsFR/con_2006/){: .btn .btn--era5} | Gift | Ce ne sont là que quelques exemples des trésors que le Roi Dragon a récupérés il y a des milliers d'années. Ce sont des trésors inestimables. |
+  | 684 | ![Âme d'unité aléatoire](/images/t/i_10019.png) | [Âme d'unité aléatoire](/ItemsFR/con_1697/){: .btn .btn--era5} | Gift | Obtenez au hasard 1 âme d'unité R (20 %), 1 âme d'unité SR (50 %) ou 1 âme d'unité SSR (30 %). |
+  | 685 | ![Élémentaire de feu à 3 étoiles](/images/t/i_907180.png) | [Élémentaire de feu à 3 étoiles](/ItemsFR/con_2142/){: .btn .btn--era4} | Gift | Élémentaire de feu |

@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemmes rares +1"
 permalink: /mat_44/
 excerpt: "Era of Chaos  Gemmes rares +1"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: fr
 ref: "mat_44.md"
 toc: false
