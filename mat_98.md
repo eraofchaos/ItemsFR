@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercure flamboyant +5"
 permalink: /mat_98/
 excerpt: "Era of Chaos  Mercure flamboyant +5"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: fr
 ref: "mat_98.md"
 toc: false
