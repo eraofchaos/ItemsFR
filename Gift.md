@@ -2,7 +2,7 @@
 title: "Item - Gift"
 permalink: /Gift/
 excerpt: "Gift in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "Gift.md"
 toc: false
@@ -542,7 +542,7 @@ classes: wide
   | 528 | ![Pack de pierres d'âme 1](/images/t/i_907414.png) | [Pack de pierres d'âme 1](/ItemsFR/con_1792/){: .btn .btn--era4} | Gift | Octroie 7 000 pierres d'âme. |
   | 529 | ![Pack de pierres d'âme 2](/images/t/i_907414.png) | [Pack de pierres d'âme 2](/ItemsFR/con_1793/){: .btn .btn--era4} | Gift | Octroie 20 000 pierres d'âme. |
   | 530 | ![Pack de pierres d'âme de courage](/images/t/i_907539.png) | [Pack de pierres d'âme de courage](/ItemsFR/con_1916/){: .btn .btn--era4} | Gift | Octroie au hasard 2 pierres d'âme de Zélote ou 2 pierres d'âme de Maître Arbalétrier. |
-  | 531 | ![Pack de pierres d'âmes SSR à sélectionner](/images/t/i_907560.png) | [Pack de pierres d'âmes SSR à sélectionner](/fr/Items/con_2154/){: .btn .btn--era5} | Gift | À utiliser pour obtenir au choix : 1 Pierre d'âme de Tireur d'élite de Regna, 1 pierre d'âme d'Archange, 1 pierre d'âme de Paladin suprême, 1 pierre d'âme de Dragon d'Or, 1 pierre d'âme de Chevalier de l'Effroi, 1 pierre d'âme de Dragon fantôme, 1 pierre d'âme de Béhémoth royal, 1 pierre d'âme de Hurleur macabre, 1 pierre d'âme d'Archidiable, 1 pierre d'âme de Reine Naga, 1 pierre d'âme de Titan, 1 pierre d'âme de Roi Dragon noir, 1 pierre d'âme de Pyrohydre, 1 pierre d'âme de Grande Gorgone, 1 pierre d'âme de Maître Farfadet, ou 1 pierre d'âme d'Élémentaire de magie. |
+  | 531 | ![Pack de pierres d'âmes SSR à sélectionner](/images/t/i_907560.png) | [Pack de pierres d'âmes SSR à sélectionner](/fr/Items/con_2154/){: .btn .btn--era5} | Gift | À utiliser pour obtenir au choix : 1 pierre d'âme d'Archange, 1 pierre d'âme de Paladin suprême, 1 pierre d'âme de Dragon d'Or, 1 pierre d'âme de Chevalier de l'Effroi, 1 pierre d'âme de Dragon fantôme, 1 pierre d'âme de Béhémoth royal, 1 pierre d'âme de Hurleur macabre, 1 pierre d'âme d'Archidiable, 1 pierre d'âme de Reine Naga, 1 pierre d'âme de Titan, 1 pierre d'âme de Roi Dragon noir, 1 pierre d'âme de Pyrohydre, 1 pierre d'âme de Grande Gorgone, 1 pierre d'âme de Maître Farfadet, 1 pierre d'âme d'Élémentaire de magie ou 1 pierre d'âme de Tireur d'élite de Regna. |
   | 532 | ![Pack de remise Liche à 3 étoiles](/images/t/i_907167.png) | [Pack de remise Liche à 3 étoiles](/ItemsFR/con_1556/){: .btn .btn--era4} | Gift | Confère jeton de Liche x80, jeton de Squelette x10, rune de groupement (Nécropole) x5 et or x30 000. |
   | 533 | ![Pack de ressources Astrologue](/images/t/i_907050.png) | [Pack de ressources Astrologue](/ItemsFR/con_1436/){: .btn .btn--era4} | Gift | À utiliser pour obtenir argent étoilé x5. |
   | 534 | ![Pack de ressources Travailleur A](/images/t/i_907290.png) | [Pack de ressources Travailleur A](/ItemsFR/con_1674/){: .btn .btn--era4} | Gift | Offre exclusive de la fête du Travail. En plus des diamants et de l'EXP VIP correspondants, vous pouvez aussi recevoir de nombreuses clés d'or et des objets d'événement ! |
@@ -691,7 +691,20 @@ classes: wide
   | 677 | ![Tool_907418](/images/t/i_907416.png) | [Tool_907418](/ItemsFR/con_1796/){: .btn .btn--era4} | Gift |  |
   | 678 | ![Tool_907419](/images/t/i_907417.png) | [Tool_907419](/ItemsFR/con_1797/){: .btn .btn--era4} | Gift |  |
   | 679 | ![Tool_907545](/images/t/i_907219.png) | [Tool_907545](/ItemsFR/con_1922/){: .btn .btn--era4} | Gift |  |
-  | 680 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/ItemsFR/con_2099/){: .btn .btn--era4} | Gift |  |
-  | 681 | ![Trésor du Dragon patriarche](/images/t/BloodoftheDragon_1.png) | [Trésor du Dragon patriarche](/ItemsFR/con_2006/){: .btn .btn--era5} | Gift | Ce ne sont là que quelques exemples des trésors que le Roi Dragon a récupérés il y a des milliers d'années. Ce sont des trésors inestimables. |
-  | 682 | ![Âme d'unité aléatoire](/images/t/i_10019.png) | [Âme d'unité aléatoire](/ItemsFR/con_1697/){: .btn .btn--era5} | Gift | Obtenez au hasard 1 âme d'unité R (20 %), 1 âme d'unité SR (50 %) ou 1 âme d'unité SSR (30 %). |
-  | 683 | ![Élémentaire de feu à 3 étoiles](/images/t/i_907180.png) | [Élémentaire de feu à 3 étoiles](/ItemsFR/con_2142/){: .btn .btn--era4} | Gift | Élémentaire de feu |
+  | 680 |  | [Tool_907644](/fr/Items/con_2201/){: .btn .btn--era5} | Gift |  |
+  | 681 |  | [Tool_907645](/fr/Items/con_2202/){: .btn .btn--era5} | Gift |  |
+  | 682 |  | [Tool_907646](/fr/Items/con_2203/){: .btn .btn--era5} | Gift |  |
+  | 683 |  | [Tool_907647](/fr/Items/con_2204/){: .btn .btn--era5} | Gift |  |
+  | 684 | ![Tool_907648](/images/t/i_907181.png) | [Tool_907648](/fr/Items/con_2205/){: .btn .btn--era5} | Gift |  |
+  | 685 |  | [Tool_907649](/fr/Items/con_2206/){: .btn .btn--era6} | Gift |  |
+  | 686 | ![Tool_907650](/images/t/i_907190.png) | [Tool_907650](/fr/Items/con_2207/){: .btn .btn--era5} | Gift |  |
+  | 687 | ![Tool_907651](/images/t/i_907190.png) | [Tool_907651](/fr/Items/con_2208/){: .btn .btn--era5} | Gift |  |
+  | 688 | ![Tool_907652](/images/t/i_907190.png) | [Tool_907652](/fr/Items/con_2209/){: .btn .btn--era5} | Gift |  |
+  | 689 | ![Tool_907653](/images/t/i_907190.png) | [Tool_907653](/fr/Items/con_2210/){: .btn .btn--era5} | Gift |  |
+  | 690 | ![Tool_907654](/images/t/i_907190.png) | [Tool_907654](/fr/Items/con_2211/){: .btn .btn--era5} | Gift |  |
+  | 691 | ![Tool_907655](/images/t/i_907525.png) | [Tool_907655](/fr/Items/con_2212/){: .btn .btn--era4} | Gift |  |
+  | 692 |  | [Tool_907656](/fr/Items/con_2213/){: .btn .btn--era5} | Gift |  |
+  | 693 | ![Tool_990099](/images/t/i_114.png) | [Tool_990099](/ItemsFR/con_2099/){: .btn .btn--era4} | Gift |  |
+  | 694 | ![Trésor du Dragon patriarche](/images/t/BloodoftheDragon_1.png) | [Trésor du Dragon patriarche](/ItemsFR/con_2006/){: .btn .btn--era5} | Gift | Ce ne sont là que quelques exemples des trésors que le Roi Dragon a récupérés il y a des milliers d'années. Ce sont des trésors inestimables. |
+  | 695 | ![Âme d'unité aléatoire](/images/t/i_10019.png) | [Âme d'unité aléatoire](/ItemsFR/con_1697/){: .btn .btn--era5} | Gift | Obtenez au hasard 1 âme d'unité R (20 %), 1 âme d'unité SR (50 %) ou 1 âme d'unité SSR (30 %). |
+  | 696 | ![Élémentaire de feu à 3 étoiles](/images/t/i_907180.png) | [Élémentaire de feu à 3 étoiles](/ItemsFR/con_2142/){: .btn .btn--era4} | Gift | Élémentaire de feu |

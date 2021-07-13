@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai exceptionnel"
 permalink: /mat_33/
 excerpt: "Era of Chaos  Minerai exceptionnel"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: fr
 ref: "mat_33.md"
 toc: false
