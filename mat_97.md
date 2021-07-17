@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois flamboyant +5"
 permalink: /mat_97/
 excerpt: "Era of Chaos  Bois flamboyant +5"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "mat_97.md"
 toc: false

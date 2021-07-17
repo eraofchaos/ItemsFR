@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai légendaire +3"
 permalink: /mat_54/
 excerpt: "Era of Chaos  Minerai légendaire +3"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: fr
 ref: "mat_54.md"
 toc: false
