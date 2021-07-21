@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemmes de qualité supérieure +1"
 permalink: /mat_23/
 excerpt: "Era of Chaos  Gemmes de qualité supérieure +1"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "mat_23.md"
 toc: false

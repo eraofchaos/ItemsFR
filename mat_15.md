@@ -2,7 +2,7 @@
 title: "Item - Materials - Soufre de bonne qualité"
 permalink: /mat_15/
 excerpt: "Era of Chaos  Soufre de bonne qualité"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: fr
 ref: "mat_15.md"
 toc: false
