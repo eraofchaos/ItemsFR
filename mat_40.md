@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerai rare +1"
 permalink: /mat_40/
 excerpt: "Era of Chaos  Minerai rare +1"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: fr
 ref: "mat_40.md"
 toc: false
