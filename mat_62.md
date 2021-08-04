@@ -2,7 +2,7 @@
 title: "Item - Materials - Bois mythique"
 permalink: /mat_62/
 excerpt: "Era of Chaos  Bois mythique"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "mat_62.md"
 toc: false

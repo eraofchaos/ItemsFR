@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemmes ordinaires"
 permalink: /mat_10/
 excerpt: "Era of Chaos  Gemmes ordinaires"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "mat_10.md"
 toc: false

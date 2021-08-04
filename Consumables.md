@@ -2,7 +2,7 @@
 title: "Item - Consumables"
 permalink: /Consumables/
 excerpt: "Consumables in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: fr
 ref: "Consumables.md"
 toc: false
@@ -66,7 +66,7 @@ classes: wide
   | 52 | ![Diamant ](/images/t/i_102.png) | [Diamant ](/ItemsFR/con_898/){: .btn .btn--era9} | VIP related | Les diamants sont synonymes de richesse. |
   | 53 | ![Dompteur du Destin (14 jours)](/images/a/avatarFrame_63.png) | [Dompteur du Destin (14 jours)](/ItemsFR/con_1021/){: .btn .btn--era5} | Experience Card | Élément obtenu en remportant l'Affrontement des Dieux interserveur |
   | 54 | ![Don Mullich](/images/h/h_Mullich4.jpg) | [Don Mullich](/ItemsFR/con_1028/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Don Mullich |
-  | 55 |  | [Dragon bleu](/fr/Items/con_2236/){: .btn .btn--era5} | Unit Skin | Octroie le skin Dragon bleu du Hydre. |
+  | 55 |  | [Dragon bleu](/fr/Items/con_2236/){: .btn .btn--era5} | Unit Skin | Octroie le skin Dragon d'azur de l'Hydre. |
   | 56 | ![Dragon enchanté](/images/h/h_MutareDrake3.jpg) | [Dragon enchanté](/ItemsFR/con_1073/){: .btn .btn--era5} | Special Skin | Permet d'obtenir le skin Constellation du Dragon enchanté de Mutare (dragon) |
   | 57 |  | [Dé](/ItemsFR/con_946/){: .btn .btn--era4} | VIP related | Magnifique dé utilisable dans l'événement Mer guérisseuse. |
   | 58 | ![Dé de chance](/images/t/i_39985.png) | [Dé de chance](/ItemsFR/con_891/){: .btn .btn--era4} | VIP related | À utiliser pour trouver des trésors cachés ! |
